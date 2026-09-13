@@ -1,0 +1,600 @@
+country,city,customer_name,payments_count,total_amount,rank_in_country,segment
+Afghanistan,Kabul,Vera Mccoy,18,67.82,1,обычный
+Algeria,Skikda,June Carroll,32,151.68,1,ключевой
+Algeria,Batna,Mario Cheatham,27,107.73,2,постоянный
+Algeria,Bchar,Judy Gray,23,89.77,3,обычный
+American Samoa,Tafuna,Anthony Schwab,15,47.85,1,обычный
+Angola,Benguela,Claude Herzog,20,93.80,1,обычный
+Angola,Namibe,Martin Bales,25,93.75,2,обычный
+Anguilla,South Hill,Bobby Boudreau,32,99.68,1,обычный
+Argentina,Avellaneda,Jordan Archuleta,28,129.71,1,постоянный
+Argentina,La Plata,Julia Flores,29,124.71,2,постоянный
+Argentina,Quilmes,Perry Swafford,24,117.76,3,постоянный
+Argentina,Merlo,Florence Woods,27,114.72,4,постоянный
+Argentina,Santa F,Eric Robert,22,105.78,5,постоянный
+Argentina,Tandil,Leonard Schofield,30,101.70,6,постоянный
+Argentina,Vicente Lpez,Willie Howell,25,100.75,7,постоянный
+Argentina,Escobar,Micheal Forman,24,96.76,8,обычный
+Argentina,Almirante Brown,Willie Markham,22,85.78,9,обычный
+Argentina,Crdoba,Kimberly Lee,23,85.77,10,обычный
+Argentina,Baha Blanca,Jason Morrissey,19,81.81,11,обычный
+Argentina,San Miguel de Tucumn,Lydia Burke,23,77.77,12,обычный
+Argentina,Ezeiza,Darryl Ashcraft,22,75.78,13,обычный
+Armenia,Yerevan,Stephanie Mitchell,25,118.75,1,постоянный
+Austria,Salzburg,Nora Herrera,26,113.74,1,постоянный
+Austria,Graz,Audrey Ray,27,111.73,2,постоянный
+Austria,Linz,Jill Hawkins,17,58.83,3,обычный
+Azerbaijan,Sumqayit,Raymond Mcwhorter,25,108.75,1,постоянный
+Azerbaijan,Baku,Andrew Purdy,22,89.78,2,обычный
+Bahrain,al-Manama,Seth Hannon,24,108.76,1,постоянный
+Bangladesh,Tangail,Michelle Clark,32,146.68,1,постоянный
+Bangladesh,Dhaka,Stephen Qualls,26,107.74,2,постоянный
+Bangladesh,Jamalpur,Frank Waggoner,23,98.77,3,обычный
+Belarus,Molodetno,Clara Shaw,40,189.60,1,ключевой
+Belarus,Mogiljov,Cory Meehan,24,81.76,2,обычный
+Bolivia,Sucre,Joel Francisco,22,92.78,1,обычный
+Bolivia,El Alto,Jon Wiles,22,85.78,2,обычный
+Brazil,Santa Brbara dOeste,Marion Snyder,39,194.61,1,ключевой
+Brazil,Vila Velha,Debra Nelson,29,141.71,2,постоянный
+Brazil,Belm,Nicholas Barfield,31,140.69,3,постоянный
+Brazil,Juiz de Fora,Kent Arsenault,27,134.73,4,постоянный
+Brazil,Boa Vista,Harold Martino,32,130.68,5,постоянный
+Brazil,Blumenau,Terri Vasquez,27,126.73,6,постоянный
+Brazil,Santo Andr,Justin Ngo,32,125.67,7,постоянный
+Brazil,Goinia,Tina Simmons,26,122.74,8,постоянный
+Brazil,Sorocaba,George Linton,29,113.71,9,постоянный
+Brazil,Guaruj,Jesus Mccartney,23,107.77,10,постоянный
+Brazil,Poos de Caldas,Maxine Silva,30,107.70,11,постоянный
+Brazil,Po,Ellen Simpson,25,102.75,12,постоянный
+Brazil,Vitria de Santo Anto,Jeremy Hurtado,25,98.75,13,обычный
+Brazil,Rio Claro,Denise Kelly,26,96.74,14,обычный
+Brazil,So Leopoldo,Francisco Skidmore,21,93.79,15,обычный
+Brazil,Anpolis,Tamara Nguyen,25,93.75,16,обычный
+Brazil,Juazeiro do Norte,Frances Parker,19,92.81,17,обычный
+Brazil,So Bernardo do Campo,Cody Nolen,20,92.80,18,обычный
+Brazil,Angra dos Reis,Joseph Joy,20,92.80,18,обычный
+Brazil,Aparecida de Goinia,Natalie Meyer,21,90.78,20,обычный
+Brazil,guas Lindas de Gois,Charlotte Hunter,22,87.78,21,обычный
+Brazil,Araatuba,Jane Bennett,23,85.77,22,обычный
+Brazil,Maring,Marian Mendoza,18,76.82,23,обычный
+Brazil,Alvorada,Clayton Barbee,21,75.79,24,обычный
+Brazil,Luzinia,Ida Andrews,22,75.78,25,обычный
+Brazil,Bag,Antonio Meek,15,73.85,26,обычный
+Brazil,Braslia,Timothy Bunn,18,72.82,27,обычный
+Brazil,Ibirit,Daniel Cabral,13,68.87,28,обычный
+Brunei,Bandar Seri Begawan,Lois Butler,34,107.66,1,постоянный
+Bulgaria,Ruse,Tyrone Asher,24,112.76,1,постоянный
+Bulgaria,Stara Zagora,Jessie Banks,24,81.76,2,обычный
+Cambodia,Battambang,Elmer Noe,23,92.76,1,обычный
+Cambodia,Phnom Penh,Allison Stanley,24,86.75,2,обычный
+Cameroon,Bamenda,Albert Crouse,22,96.78,1,обычный
+Cameroon,Yaound,Lawrence Lawton,28,89.71,2,обычный
+Canada,Richmond Hill,Curtis Irby,38,167.62,1,ключевой
+Canada,Vancouver,Troy Quigley,27,126.73,2,постоянный
+Canada,Halifax,Darrell Power,24,89.76,3,обычный
+Canada,Gatineau,Derrick Bourque,20,87.80,4,обычный
+Canada,Oshawa,Loretta Carpenter,21,87.79,5,обычный
+Chad,NDjamna,Javier Elrod,28,122.72,1,постоянный
+Chile,Antofagasta,Janet Phillips,26,124.74,1,постоянный
+Chile,Coquimbo,Andre Rapp,26,110.74,2,постоянный
+Chile,Rancagua,Jerome Kenyon,14,67.86,3,обычный
+China,Zhoushan,Guy Brownlee,31,151.69,1,ключевой
+China,Fuyu,Stacey Montgomery,33,146.67,2,постоянный
+China,Lengshuijiang,Margie Wade,32,142.67,3,постоянный
+China,Changzhou,Sue Peters,32,133.68,4,постоянный
+China,Binzhou,Jessie Milam,30,132.70,5,постоянный
+China,Jinchang,Regina Berry,32,129.68,6,постоянный
+China,Yinchuan,Roberto Vu,27,128.73,7,постоянный
+China,Qinhuangdao,Glenda Frazier,29,128.71,8,постоянный
+China,Liaocheng,Carrie Porter,34,124.66,9,постоянный
+China,Emeishan,Alan Kahn,25,119.75,10,постоянный
+China,Tiefa,Michael Silverman,26,113.74,11,постоянный
+China,Leshan,Dave Gardiner,27,113.73,12,постоянный
+China,Datong,Christy Vargas,30,113.70,13,постоянный
+China,Shaoguan,Clyde Tobias,28,112.72,14,постоянный
+China,Baiyin,Charlie Bess,24,110.76,15,постоянный
+China,Yuncheng,Michele Grant,27,110.73,16,постоянный
+China,Meixian,Ruby Washington,28,110.72,17,постоянный
+China,Jinzhou,Terrence Gunderson,29,110.71,18,постоянный
+China,Xiangfan,Heidi Larson,32,110.68,19,постоянный
+China,Baicheng,Ted Breaux,27,109.73,20,постоянный
+China,Shanwei,Kyle Spurlock,29,109.71,21,постоянный
+China,Jining,Eduardo Hiatt,23,108.77,22,постоянный
+China,Weifang,Marion Ocampo,27,107.73,23,постоянный
+China,Hohhot,Hazel Warren,32,106.68,24,постоянный
+China,Tongliao,Leroy Bustamante,29,104.71,25,постоянный
+China,Dongying,Leo Ebert,22,101.78,26,постоянный
+China,Laohekou,Melvin Ellington,25,96.75,27,обычный
+China,Yuzhou,Gary Coy,22,95.78,28,обычный
+China,Xinxiang,Walter Perryman,24,95.76,29,обычный
+China,Sanya,Kelly Knott,24,94.76,30,обычный
+China,Suihua,Chester Benner,22,92.78,31,обычный
+China,Nanyang,Pamela Baker,21,91.79,32,обычный
+China,Daxian,Judith Cox,30,91.70,33,обычный
+China,Haining,Hugh Waldrop,20,89.80,34,обычный
+China,Tianjin,Dora Medina,19,88.81,35,обычный
+China,Pingxiang,Erica Matthews,20,86.80,36,обычный
+China,Xiangtan,Kelly Torres,20,86.80,36,обычный
+China,Rizhao,Tyler Wren,19,82.81,38,обычный
+China,Xintai,Bob Pfeiffer,22,82.78,39,обычный
+China,Hami,Lorraine Stephens,20,81.80,40,обычный
+China,Laiwu,Megan Palmer,25,81.75,41,обычный
+China,Yingkou,Roland South,23,80.77,42,обычный
+China,Tieli,Austin Cintron,18,78.82,43,обычный
+China,Junan,Ricky Shelby,23,78.77,44,обычный
+China,Huaian,Ernest Stepp,21,77.79,45,обычный
+China,Zalantun,Phyllis Foster,20,76.80,46,обычный
+China,Shenzhen,Eugene Culpepper,18,70.82,47,обычный
+China,Zaoyang,Franklin Troutman,21,69.79,48,обычный
+China,Korla,Felicia Sutton,23,68.77,49,обычный
+China,Yantai,Kay Caldwell,13,65.87,50,обычный
+China,Ezhou,Donald Mahon,16,63.84,51,обычный
+China,Enshi,Tiffany Jordan,12,49.88,52,обычный
+China,Fuzhou,Leona Obrien,10,32.90,53,обычный
+Colombia,Sincelejo,Wanda Patterson,28,137.72,1,постоянный
+Colombia,Dos Quebradas,Sylvia Ortiz,30,134.70,2,постоянный
+Colombia,Sogamoso,Sam Mcduffie,22,105.78,3,постоянный
+Colombia,Florencia,Leon Bostic,21,97.79,4,обычный
+Colombia,Pereira,Stacy Cunningham,22,95.78,5,обычный
+Colombia,Buenaventura,Jackie Lynch,23,89.77,6,обычный
+"Congo, The Democratic Republic of the",Mwene-Ditu,Aaron Selby,20,88.80,1,обычный
+"Congo, The Democratic Republic of the",Lubumbashi,Jesse Schilling,22,79.78,2,обычный
+Czech Republic,Olomouc,Jennie Terry,28,132.72,1,постоянный
+Dominican Republic,Santiago de los Caballeros,Myrtle Fleming,24,110.76,1,постоянный
+Dominican Republic,San Felipe de Puerto Plata,Jeff East,30,107.70,2,постоянный
+Dominican Republic,La Romana,Randall Neumann,20,85.80,3,обычный
+Ecuador,Robamba,Ramon Choate,30,135.70,1,постоянный
+Ecuador,Loja,Tracy Herrmann,25,118.75,2,постоянный
+Ecuador,Portoviejo,Patsy Davidson,27,114.73,3,постоянный
+Egypt,Shubra al-Khayma,Sherry Marshall,31,139.69,1,постоянный
+Egypt,Mit Ghamr,Rick Mattox,25,120.75,2,постоянный
+Egypt,Sawhaj,Alfred Casillas,26,120.74,3,постоянный
+Egypt,Bilbays,Everett Banda,28,110.72,4,постоянный
+Egypt,Idfu,Lillie Kim,23,89.77,5,обычный
+Egypt,Qalyub,Emma Boyd,19,77.81,6,обычный
+Estonia,Tartu,Marcus Hidalgo,28,105.72,1,постоянный
+Ethiopia,Addis Abeba,Sean Douglass,23,91.77,1,обычный
+Faroe Islands,Trshavn,Edward Baugh,24,96.76,1,обычный
+Finland,Oulu,Erika Pena,21,78.79,1,обычный
+France,Toulouse,Virginia Green,30,118.70,1,постоянный
+France,Brest,Luis Yanez,19,77.81,2,обычный
+France,Toulon,Rita Graham,22,77.78,3,обычный
+France,Le Mans,Lauren Hudson,17,59.83,4,обычный
+French Guiana,Cayenne,Rose Howard,20,97.80,1,обычный
+French Polynesia,Papeete,Gloria Cook,26,115.74,1,постоянный
+French Polynesia,Faaa,Christine Roberts,21,89.78,2,обычный
+Gambia,Banjul,Salvador Teel,27,114.73,1,постоянный
+Germany,Mannheim,Alma Austin,31,128.69,1,постоянный
+Germany,Erlangen,Miguel Betancourt,26,127.73,2,постоянный
+Germany,Duisburg,Grace Ellis,30,126.70,3,постоянный
+Germany,Halle/Saale,Vickie Brewer,25,100.75,4,постоянный
+Germany,Witten,Vicki Fields,22,91.78,5,обычный
+Germany,Siegen,Vanessa Sims,19,86.81,6,обычный
+Germany,Saarbrcken,Colleen Burton,22,78.78,7,обычный
+Greece,Athenai,Linda Williams,24,130.76,1,постоянный
+Greece,Patras,Enrique Forsythe,22,73.78,2,обычный
+Greenland,Nuuk,Gertrude Castillo,28,119.72,1,постоянный
+Holy See (Vatican City State),Citt del Vaticano,Jessica Hall,32,146.68,1,постоянный
+Hong Kong,Kowloon and New Kowloon,Violet Rodriquez,24,104.76,1,постоянный
+Hungary,Szkesfehrvr,Terrance Roush,29,111.71,1,постоянный
+India,Valparai,Mike Way,33,162.67,1,ключевой
+India,Halisahar,Lena Jensen,30,154.70,2,ключевой
+India,Bijapur,Tim Cary,34,154.66,3,ключевой
+India,Bhilwara,Tonya Chapman,29,147.71,4,постоянный
+India,Rae Bareli,Lori Wood,31,141.69,5,постоянный
+India,Bhopal,Helen Harris,31,134.68,6,постоянный
+India,Siliguri (Shiliguri),Brett Cornwell,30,130.70,7,постоянный
+India,Purnea (Purnia),Bradley Motley,26,125.74,8,постоянный
+India,Parbhani,John Farnsworth,26,123.74,9,постоянный
+India,Vijayawada,Milton Howland,23,121.77,10,постоянный
+India,Mysore,Cheryl Murphy,24,119.76,11,постоянный
+India,Pudukkottai,Lee Hawks,25,117.75,12,постоянный
+India,Karnal,Naomi Jennings,27,116.73,13,постоянный
+India,Satna,Gerald Fultz,29,116.71,14,постоянный
+India,Bhimavaram,Erik Guillen,28,115.72,15,постоянный
+India,Jhansi,Amy Lopez,26,112.74,16,постоянный
+India,Ambattur,Arlene Harvey,24,111.76,17,постоянный
+India,Haldia,Holly Fox,29,111.71,18,постоянный
+India,Udaipur,Beatrice Arnold,23,109.77,19,постоянный
+India,Uluberia,Theodore Culp,28,109.72,20,постоянный
+India,Chandrapur,Sally Pierce,29,108.71,21,постоянный
+India,Munger (Monghyr),Cynthia Young,30,105.70,22,постоянный
+India,Etawah,Josephine Gomez,25,104.75,23,постоянный
+India,Kamarhati,Brenda Wright,26,104.74,24,постоянный
+India,Patiala,Ramona Hale,23,103.77,25,постоянный
+India,Bhusawal,Carla Gutierrez,26,103.74,26,постоянный
+India,Pune,Juanita Mason,28,100.72,27,постоянный
+India,Ahmadnagar,Sherri Rhodes,26,99.74,28,обычный
+India,Allappuzha (Alleppey),Annette Olson,23,98.76,29,обычный
+India,Adoni,Adam Gooch,20,97.80,30,обычный
+India,Firozabad,Laurie Lawrence,22,97.78,31,обычный
+India,Varanasi (Benares),Shannon Freeman,23,97.77,32,обычный
+India,Bhavnagar,Carlos Coughlin,21,96.79,33,обычный
+India,Palghat (Palakkad),Nina Soto,21,96.79,33,обычный
+India,Rajkot,Dwayne Olvera,20,95.80,35,обычный
+India,Shivapuri,Nicole Peterson,22,94.78,36,обычный
+India,Rampur,Joshua Mark,22,93.78,37,обычный
+India,Yamuna Nagar,Nancy Thomas,26,93.74,38,обычный
+India,Jaipur,Mildred Bailey,21,88.78,39,обычный
+India,Uttarpara-Kotrung,Georgia Jacobs,23,88.77,40,обычный
+India,Chapra,Raul Fortier,18,86.82,41,обычный
+India,Shimoga,Nellie Garrett,19,86.81,42,обычный
+India,Sambhal,Agnes Bishop,21,86.79,43,обычный
+India,Katihar,Chad Carbone,24,86.76,44,обычный
+India,Balurghat,Lucy Wheeler,24,86.75,45,обычный
+India,Dhule (Dhulia),Bernard Colby,21,83.79,46,обычный
+India,Amroha,Christian Jung,22,81.78,47,обычный
+India,Miraj,Steven Curley,19,80.81,48,обычный
+India,Tambaram,Becky Miles,22,80.78,49,обычный
+India,Jodhpur,Pearl Garza,22,76.78,50,обычный
+India,Ranchi,Samuel Marlow,20,75.80,51,обычный
+India,Hoshiarpur,Allen Butterfield,17,74.83,52,обычный
+India,Nagaon,Alicia Mills,19,73.81,53,обычный
+India,Pathankot,Paula Bryant,17,72.83,54,обычный
+India,Gulbarga,Wayne Truong,19,70.81,55,обычный
+India,Gandhinagar,Edith Mcdonald,17,69.83,56,обычный
+India,Berhampore (Baharampur),Marvin Yee,19,65.81,57,обычный
+India,Kanchrapara,Lester Kraus,15,62.85,58,обычный
+India,Hubli-Dharwad,Anita Morales,14,59.86,59,обычный
+India,Kumbakonam,Penny Neal,16,56.84,60,обычный
+Indonesia,Probolinggo,Steve Mackenzie,32,152.68,1,ключевой
+Indonesia,Pontianak,Leslie Seward,28,123.72,2,постоянный
+Indonesia,Lhokseumawe,Jorge Olivares,31,122.69,3,постоянный
+Indonesia,Ciomas,Minnie Romero,28,108.72,4,постоянный
+Indonesia,Pemalang,Victoria Gibson,26,106.74,5,постоянный
+Indonesia,Madiun,Reginald Kinder,25,96.75,6,обычный
+Indonesia,Jakarta,Suzanne Nichols,24,94.76,7,обычный
+Indonesia,Gorontalo,Tara Ryan,19,87.81,8,обычный
+Indonesia,Surakarta,Jay Robb,25,85.75,9,обычный
+Indonesia,Pangkal Pinang,Lonnie Tirado,16,84.84,10,обычный
+Indonesia,Purwakarta,Jared Ely,17,81.83,11,обычный
+Indonesia,Cianjur,Norman Currier,24,73.76,12,обычный
+Indonesia,Tegal,Lloyd Dowd,19,66.81,13,обычный
+Indonesia,Ciparay,Jeffrey Spear,17,65.83,14,обычный
+Iran,Qomsheh,Tommy Collazo,37,183.63,1,ключевой
+Iran,Najafabad,Harry Arce,31,139.69,2,постоянный
+Iran,Tabriz,Dianne Shelton,24,114.76,3,постоянный
+Iran,Esfahan,Dorothy Taylor,24,94.76,4,обычный
+Iran,Kermanshah,Howard Fortner,26,93.74,5,обычный
+Iran,Arak,Kathleen Adams,25,90.75,6,обычный
+Iran,Sirjan,Oscar Aquino,17,80.83,7,обычный
+Iran,Shahr-e Kord,Roberta Harper,20,79.80,8,обычный
+Iraq,Mosul,Daryl Larue,27,111.73,1,постоянный
+Israel,Ashdod,Crystal Ford,30,129.70,1,постоянный
+Israel,Tel Aviv-Jaffa,Geraldine Perkins,24,94.76,2,обычный
+Israel,Ashqelon,Lewis Lyman,19,86.81,3,обычный
+Israel,Bat Yam,Kenneth Gooden,14,67.86,4,обычный
+Italy,Bergamo,Alexander Fennell,33,137.67,1,постоянный
+Italy,Syrakusa,Bessie Morrison,27,127.73,2,постоянный
+Italy,Brindisi,Marc Outlaw,29,120.71,3,постоянный
+Italy,Brescia,Christopher Greco,25,113.75,4,постоянный
+Italy,Livorno,Darren Windham,22,95.78,5,обычный
+Italy,Alessandria,Anna Hill,20,88.80,6,обычный
+Italy,Udine,Adrian Clary,18,68.82,7,обычный
+Japan,Shimonoseki,Angela Hernandez,35,138.65,1,постоянный
+Japan,Omiya,Stanley Scroggins,29,133.71,2,постоянный
+Japan,Fukuyama,Debbie Reyes,31,127.69,3,постоянный
+Japan,Urawa,Joanne Robertson,32,125.68,4,постоянный
+Japan,Kakamigahara,Cathy Spencer,28,122.71,5,постоянный
+Japan,Otsu,Miriam Mckinney,23,117.77,6,постоянный
+Japan,Miyakonojo,Terry Carlson,26,116.74,7,постоянный
+Japan,Iwakuni,Teresa Rogers,26,114.74,8,постоянный
+Japan,Sasebo,Mary Smith,30,114.70,9,постоянный
+Japan,Onomichi,Jerry Jordon,24,111.76,10,постоянный
+Japan,Kuwana,Jamie Waugh,23,110.77,11,постоянный
+Japan,Akishima,Julian Vest,27,108.73,12,постоянный
+Japan,Iwaki,Marlene Welch,23,106.77,13,постоянный
+Japan,Iwatsuki,Earl Shanks,26,105.74,14,постоянный
+Japan,Isesaki,Ron Deluca,22,99.78,15,обычный
+Japan,Sagamihara,Lisa Anderson,23,99.77,16,обычный
+Japan,Ueda,Angel Barclay,28,99.72,17,обычный
+Japan,Higashiosaka,Gwendolyn May,25,98.75,18,обычный
+Japan,Tama,Phillip Holm,24,93.76,19,обычный
+Japan,Okinawa,Bruce Schwarz,21,92.79,20,обычный
+Japan,Okayama,Ricardo Meador,19,91.81,21,обычный
+Japan,Kurashiki,Rebecca Scott,24,89.76,22,обычный
+Japan,Nagareyama,Heather Morris,23,88.76,23,обычный
+Japan,Kanazawa,Kurt Emmons,20,87.80,24,обычный
+Japan,Hiroshima,James Gannon,21,84.79,25,обычный
+Japan,Izumisano,Clarence Gamez,25,79.75,26,обычный
+Japan,Tsuyama,Frederick Isbell,16,78.84,27,обычный
+Japan,Hino,Kristen Chavez,16,74.84,28,обычный
+Japan,Kamakura,Rachel Barnes,19,73.81,29,обычный
+Japan,Matsue,Terry Grissom,19,68.81,30,обычный
+Japan,Koriyama,Tony Carranza,19,62.81,31,обычный
+Kazakstan,Zhezqazghan,Byron Box,28,117.72,1,постоянный
+Kazakstan,Pavlodar,Irene Price,21,74.79,2,обычный
+Kenya,Nyeri,Roy Whiting,28,139.72,1,постоянный
+Kenya,Kisumu,Katie Elliott,23,105.77,2,постоянный
+Kuwait,Jalib al-Shuyukh,Claudia Fuller,25,106.75,1,постоянный
+Latvia,Daugavpils,Ryan Salisbury,30,142.70,1,постоянный
+Latvia,Liepaja,Sarah Lewis,27,106.73,2,постоянный
+Liechtenstein,Vaduz,Evelyn Morgan,26,99.74,1,обычный
+Lithuania,Vilnius,Felix Gaffney,22,63.78,1,обычный
+Madagascar,Mahajanga,Andrea Henderson,21,92.79,1,обычный
+Malawi,Lilongwe,Lynn Payne,27,121.73,1,постоянный
+Malaysia,Sungai Petani,Charles Kowalski,28,119.72,1,постоянный
+Malaysia,Kuching,Jean Bell,24,105.76,2,постоянный
+Malaysia,Ipoh,Dolores Wagner,25,104.75,3,постоянный
+Mexico,Uruapan,Alex Gresham,32,143.68,1,постоянный
+Mexico,Cuauhtmoc,Alvin Deloach,28,134.72,2,постоянный
+Mexico,Salamanca,Priscilla Lowe,28,130.72,3,постоянный
+Mexico,Atlixco,Sara Perry,30,128.70,4,постоянный
+Mexico,Huixquilucan,Tracy Cole,28,126.72,5,постоянный
+Mexico,Coatzacoalcos,Maurice Crawley,26,125.74,6,постоянный
+Mexico,El Fuerte,Jim Rea,30,121.70,7,постоянный
+Mexico,Huejutla de Reyes,Andy Vanhorn,24,112.76,8,постоянный
+Mexico,Cuernavaca,Isaac Oglesby,24,109.76,9,постоянный
+Mexico,Mexicali,Douglas Graf,23,106.77,10,постоянный
+Mexico,Celaya,Sergio Stanfield,24,102.76,11,постоянный
+Mexico,Acua,Glen Talbert,23,100.77,12,постоянный
+Mexico,San Juan Bautista Tuxtepec,Francis Sikes,25,98.75,13,обычный
+Mexico,Jos Azueta,Virgil Wofford,25,97.75,14,обычный
+Mexico,Allende,Vincent Ralston,23,96.77,15,обычный
+Mexico,Carmen,Willard Lumpkin,21,95.79,16,обычный
+Mexico,La Paz,Shane Millard,22,95.78,17,обычный
+Mexico,Hidalgo,Danielle Daniels,22,94.78,18,обычный
+Mexico,San Felipe del Progreso,Ronald Weiner,21,93.79,19,обычный
+Mexico,Monclova,Ivan Cromwell,25,91.75,20,обычный
+Mexico,Cuautla,Matthew Mahan,25,91.75,20,обычный
+Mexico,Guadalajara,Benjamin Varney,22,89.78,22,обычный
+Mexico,Coacalco de Berriozbal,Stella Moreno,19,88.81,23,обычный
+Mexico,Torren,Pauline Henry,25,88.75,24,обычный
+Mexico,Nezahualcyotl,Wendy Harrison,27,86.73,25,обычный
+Mexico,Matamoros,Samantha Duncan,23,71.77,26,обычный
+Mexico,Jurez,Fred Wheat,21,69.79,27,обычный
+Mexico,Zapopan,Floyd Gandy,16,68.84,28,обычный
+Mexico,Pachuca de Soto,Jonathan Scarborough,17,65.83,29,обычный
+Mexico,Valle de Santiago,Bobbie Craig,19,52.81,30,обычный
+Moldova,Chisinau,Martha Gonzalez,34,127.66,1,постоянный
+Morocco,Nador,Amanda Carter,26,105.74,1,постоянный
+Morocco,Sal,Laura Rodriguez,19,94.81,2,обычный
+Morocco,Beni-Mellal,Lance Pemberton,20,73.80,3,обычный
+Mozambique,Beira,Marsha Douglas,34,142.66,1,постоянный
+Mozambique,Naala-Porto,Don Bone,23,113.77,2,постоянный
+Mozambique,Tete,Annie Russell,18,58.82,3,обычный
+Myanmar,Monywa,Mabel Holland,25,97.75,1,обычный
+Myanmar,Myingyan,Barbara Jones,22,81.78,2,обычный
+Nauru,Yangor,Duane Tubbs,30,143.70,1,постоянный
+Nepal,Birgunj,Kevin Schuler,17,93.83,1,обычный
+Netherlands,Apeldoorn,Rhonda Kennedy,38,191.62,1,ключевой
+Netherlands,Ede,Peter Menard,22,103.78,2,постоянный
+Netherlands,Emmen,Dustin Gillette,25,92.75,3,обычный
+Netherlands,Amersfoort,Glenn Pullen,22,88.78,4,обычный
+Netherlands,s-Hertogenbosch,Vivian Ruiz,20,80.80,5,обычный
+New Zealand,Hamilton,Susan Wilson,23,85.77,1,обычный
+Nigeria,Ife,Marilyn Ross,30,137.70,1,постоянный
+Nigeria,Ilorin,Gladys Hamilton,29,128.71,2,постоянный
+Nigeria,Ikerre,Elsie Kelley,32,124.68,3,постоянный
+Nigeria,Benin City,Sonia Gregory,21,108.78,4,постоянный
+Nigeria,Ogbomosho,Olga Jimenez,24,108.76,5,постоянный
+Nigeria,Owo,Tracey Barrett,23,103.77,6,постоянный
+Nigeria,Deba Habe,Rodney Moeller,22,97.78,7,обычный
+Nigeria,Sokoto,Wallace Slone,22,97.78,7,обычный
+Nigeria,Effon-Alaiye,Velma Lucas,24,96.76,9,обычный
+Nigeria,Ondo,Bertha Ferguson,23,89.77,10,обычный
+Nigeria,Zaria,Constance Reid,23,86.77,11,обычный
+Nigeria,Kaduna,Carol Garcia,19,78.81,12,обычный
+Nigeria,Oyo,Jo Fowler,15,54.85,13,обычный
+North Korea,Pyongyang,Darlene Rose,29,107.71,1,постоянный
+Oman,Salala,Gene Sanborn,24,82.76,1,обычный
+Oman,Masqat,Margaret Moore,20,78.80,2,обычный
+Pakistan,Dadu,Jeffery Pinson,28,113.72,1,постоянный
+Pakistan,Shikarpur,Deborah Walker,27,104.73,2,постоянный
+Pakistan,Mardan,Sharon Robinson,27,103.73,3,постоянный
+Pakistan,Mandi Bahauddin,Melinda Fernandez,16,77.84,4,обычный
+Pakistan,Okara,Danny Isom,18,73.82,5,обычный
+Paraguay,San Lorenzo,Carl Artis,21,104.79,1,постоянный
+Paraguay,Asuncin,Maureen Little,21,87.79,2,обычный
+Paraguay,Ciudad del Este,Eileen Carr,18,80.82,3,обычный
+Peru,Lima,Thelma Murray,30,120.70,1,постоянный
+Peru,Hunuco,Jaime Nettles,27,118.73,2,постоянный
+Peru,Sullana,Freddie Duggan,23,87.77,3,обычный
+Peru,Callao,David Royal,19,79.81,4,обычный
+Philippines,Tanza,Marcia Dean,39,166.61,1,ключевой
+Philippines,Santa Rosa,Arnold Havens,32,161.68,2,ключевой
+Philippines,Tanauan,Louis Leone,34,156.66,3,ключевой
+Philippines,Imus,Joe Gilliland,28,133.72,4,постоянный
+Philippines,Cabuyao,Billy Poulin,29,123.71,5,постоянный
+Philippines,Davao,Shirley Allen,30,123.70,6,постоянный
+Philippines,Ozamis,Eddie Tomlin,26,122.74,7,постоянный
+Philippines,Lapu-Lapu,Viola Hanson,30,122.70,8,постоянный
+Philippines,Mandaluyong,Hilda Hopkins,27,116.73,9,постоянный
+Philippines,Baybay,Kathy James,28,116.72,10,постоянный
+Philippines,Cavite,Craig Morrell,28,114.72,11,постоянный
+Philippines,Iligan,Ross Grey,26,98.74,12,обычный
+Philippines,Bayugan,Melanie Armstrong,25,92.75,13,обычный
+Philippines,Talavera,Rafael Abney,19,91.81,14,обычный
+Philippines,Tuguegarao,Deanna Byrd,22,90.78,15,обычный
+Philippines,Gingoog,Derek Blakely,27,90.73,16,обычный
+Philippines,Taguig,Theresa Watson,27,88.73,17,обычный
+Philippines,Bislig,Norma Gonzales,19,71.81,18,обычный
+Philippines,Hagonoy,Irma Pearson,18,70.82,19,обычный
+Philippines,Tarlac,Allan Cornish,16,63.84,20,обычный
+Poland,Wroclaw,Jimmie Eggleston,28,135.72,1,постоянный
+Poland,Tychy,Russell Brinson,35,132.65,2,постоянный
+Poland,Jastrzebie-Zdrj,Marjorie Tucker,30,118.70,3,постоянный
+Poland,Plock,Johnnie Chisholm,22,107.78,4,постоянный
+Poland,Czestochowa,Sidney Burleson,24,100.76,5,постоянный
+Poland,Lublin,Ruben Geary,19,86.81,6,обычный
+Poland,Kalisz,Leah Curtis,19,75.81,7,обычный
+Poland,Bydgoszcz,Brian Wyman,7,27.93,8,обычный
+Puerto Rico,Arecibo,Ralph Madrigal,32,144.68,1,постоянный
+Puerto Rico,Ponce,Jenny Castro,20,79.80,2,обычный
+Romania,Botosani,Joy George,31,118.69,1,постоянный
+Romania,Bucuresti,Ken Prewitt,27,99.73,2,обычный
+Runion,Saint-Denis,Eleanor Hunt,45,211.55,1,ключевой
+Russian Federation,Usolje-Sibirskoje,Warren Sherrod,31,152.69,1,ключевой
+Russian Federation,Maikop,Arthur Simpkins,30,145.70,2,постоянный
+Russian Federation,Moscow,Catherine Campbell,31,131.69,3,постоянный
+Russian Federation,Kolpino,Daisy Bates,28,125.72,4,постоянный
+Russian Federation,Kirovo-Tepetsk,Dana Hart,26,120.74,5,постоянный
+Russian Federation,Pjatigorsk,Hector Poindexter,26,119.74,6,постоянный
+Russian Federation,Korolev,Philip Causey,29,115.71,7,постоянный
+Russian Federation,Nabereznyje Telny,Clifford Bowens,27,109.73,8,постоянный
+Russian Federation,Kurgan,Randy Gaither,27,109.73,8,постоянный
+Russian Federation,Ljubertsy,Erin Dunn,27,106.73,10,постоянный
+Russian Federation,Smolensk,Elaine Stevens,22,105.78,11,постоянный
+Russian Federation,Atinsk,Jimmy Schrader,28,104.72,12,постоянный
+Russian Federation,Kamyin,Ben Easter,23,102.77,13,постоянный
+Russian Federation,Lipetsk,Marie Turner,21,101.79,14,постоянный
+Russian Federation,Jelets,Robin Hayes,23,101.77,15,постоянный
+Russian Federation,Ivanovo,Connie Wallace,21,95.79,16,обычный
+Russian Federation,Elista,Donna Thompson,18,87.82,17,обычный
+Russian Federation,Zeleznogorsk,Jack Foust,23,87.77,18,обычный
+Russian Federation,Serpuhov,Alfredo Mcadams,20,85.80,19,обычный
+Russian Federation,Balaiha,Doris Reed,19,84.81,20,обычный
+Russian Federation,Kursk,Paul Trout,15,80.85,21,обычный
+Russian Federation,Syktyvkar,Herbert Kruger,19,73.81,22,обычный
+Russian Federation,Kaliningrad,Robert Baughman,15,71.85,23,обычный
+Russian Federation,Jaroslavl,Delores Hansen,16,71.84,24,обычный
+Russian Federation,Dzerzinsk,Ray Houle,20,71.80,25,обычный
+Russian Federation,Niznekamsk,Ann Evans,14,67.86,26,обычный
+Russian Federation,Novoterkassk,Jeanette Greene,18,66.82,27,обычный
+Russian Federation,Teboksary,Juan Fraley,21,63.79,28,обычный
+Saint Vincent and the Grenadines,Kingstown,Jose Andrew,18,64.82,1,обычный
+Saudi Arabia,Jedda,Joyce Edwards,24,116.76,1,постоянный
+Saudi Arabia,al-Qatif,Travis Estep,22,91.78,2,обычный
+Saudi Arabia,Abha,Peggy Myers,23,86.77,3,обычный
+Saudi Arabia,Tabuk,Mark Rinehart,20,81.80,4,обычный
+Saudi Arabia,al-Hawiya,Christina Ramirez,17,75.83,5,обычный
+Senegal,Ziguinchor,Ronnie Ricketts,24,95.76,1,обычный
+Slovakia,Bratislava,Keith Rico,23,80.77,1,обычный
+South Africa,Boksburg,Ethel Webb,31,131.69,1,постоянный
+South Africa,Soshanguve,Lucille Holmes,27,107.73,2,постоянный
+South Africa,Johannesburg,Dean Sauer,26,106.74,3,постоянный
+South Africa,Rustenburg,Dale Ratcliff,26,104.74,4,постоянный
+South Africa,Kimberley,Ruth Martinez,18,98.82,5,обычный
+South Africa,Springs,Louise Jenkins,22,96.78,6,обычный
+South Africa,Botshabelo,Esther Crawford,28,95.72,7,обычный
+South Africa,Newcastle,Edwin Burk,20,93.80,8,обычный
+South Africa,Klerksdorp,Edna West,19,79.81,9,обычный
+South Africa,Paarl,Dennis Gilman,20,78.80,10,обычный
+South Africa,Chatsworth,Dwight Lombardi,17,74.83,11,обычный
+South Korea,Naju,Tanya Gilbert,31,138.69,1,постоянный
+South Korea,Tonghae,Fernando Churchill,23,109.77,2,постоянный
+South Korea,Uijongbu,Courtney Day,26,103.74,3,постоянный
+South Korea,Kimchon,Emily Diaz,23,90.77,4,обычный
+South Korea,Cheju,Bonnie Hughes,20,84.80,5,обычный
+Spain,Ourense (Orense),Wesley Bull,35,158.65,1,ключевой
+Spain,Donostia-San Sebastin,Mae Fletcher,21,107.79,2,постоянный
+Spain,A Corua (La Corua),Julie Sanchez,28,106.72,3,постоянный
+Spain,Gijn,Chris Brothers,20,77.80,4,обычный
+Spain,Santiago de Compostela,Nelson Christenson,16,62.84,5,обычный
+Sri Lanka,Jaffna,Manuel Murrell,27,103.73,1,постоянный
+Sudan,Omdurman,Diane Collins,30,144.70,1,постоянный
+Sudan,al-Qadarif,Johnny Turpin,19,57.81,2,обычный
+Sweden,Malm,Janice Ward,33,139.67,1,постоянный
+Switzerland,Bern,Gail Knight,23,106.76,1,постоянный
+Switzerland,Lausanne,Wade Delvalle,22,83.78,2,обычный
+Switzerland,Basel,Katherine Rivera,13,57.87,3,обычный
+Taiwan,Changhwa,Tammy Sanders,37,149.61,1,постоянный
+Taiwan,Hsichuh,Roger Quintanilla,34,144.66,2,постоянный
+Taiwan,Fengshan,Morris Mccarter,31,135.68,3,постоянный
+Taiwan,Nantou,Elizabeth Brown,35,134.65,4,постоянный
+Taiwan,Lungtan,Melissa King,34,123.66,5,постоянный
+Taiwan,Touliu,Amber Dixon,27,113.73,6,постоянный
+Taiwan,Tanshui,Clifton Malcolm,26,111.74,7,постоянный
+Taiwan,Chungho,Brad Mccurdy,24,100.76,8,постоянный
+Taiwan,Chiayi,Beverly Brooks,22,89.78,9,обычный
+Taiwan,Tsaotun,Kirk Stclair,17,50.83,10,обычный
+Tanzania,Zanzibar,Charlene Alvarez,25,109.75,1,постоянный
+Tanzania,Mwanza,Herman Devore,28,109.72,2,постоянный
+Tanzania,Tabora,Yolanda Weaver,25,102.75,3,постоянный
+Thailand,Songkhla,Jacqueline Long,32,146.68,1,постоянный
+Thailand,Nakhon Sawan,Shawn Heaton,31,142.69,2,постоянный
+Thailand,Pak Kret,Carolyn Perez,28,111.71,3,постоянный
+Tonga,Nukualofa,Henry Billingsley,16,64.84,1,обычный
+Tunisia,Sousse,Gregory Mauldin,22,73.78,1,обычный
+Turkey,Balikesir,Brandon Huey,36,145.64,1,постоянный
+Turkey,Usak,Rosemary Schmidt,31,134.69,2,постоянный
+Turkey,Batman,Bernice Willis,30,133.70,3,постоянный
+Turkey,Osmaniye,Karen Jackson,27,131.73,4,постоянный
+Turkey,Tokat,Casey Mena,32,130.68,5,постоянный
+Turkey,Sivas,Gabriel Harder,25,108.75,6,постоянный
+Turkey,Sultanbeyli,Brent Harkins,22,104.78,7,постоянный
+Turkey,Eskisehir,Edgar Rhoads,23,89.77,8,обычный
+Turkey,Gaziantep,Corey Hauser,19,83.81,9,обычный
+Turkey,Kilis,Leslie Gordon,20,83.80,10,обычный
+Turkey,Denizli,Vernon Chapa,17,81.83,11,обычный
+Turkey,Adana,Larry Thrasher,19,74.81,12,обычный
+Turkey,Inegl,Billie Horton,21,71.79,13,обычный
+Turkey,Tarsus,Joann Gardner,15,64.85,14,обычный
+Turkey,Ktahya,Sheila Wells,14,57.86,15,обычный
+Turkmenistan,Ashgabat,Jeanne Lawson,26,126.74,1,постоянный
+Tuvalu,Funafuti,Dawn Sullivan,22,93.78,1,обычный
+Ukraine,Sumy,Brittany Riley,27,151.73,1,ключевой
+Ukraine,Simferopol,Kathryn Coleman,24,118.76,2,постоянный
+Ukraine,Mukateve,Monica Hicks,27,112.73,3,постоянный
+Ukraine,Kamjanets-Podilskyi,Todd Tan,28,109.72,4,постоянный
+Ukraine,ostka,Pedro Chestnut,22,97.78,5,обычный
+Ukraine,Konotop,Julio Noland,19,84.81,6,обычный
+United Arab Emirates,Sharja,Misty Lambert,22,102.78,1,постоянный
+United Arab Emirates,al-Ayn,Lillian Griffin,24,102.76,2,постоянный
+United Arab Emirates,Abu Dhabi,Tom Milner,29,99.71,3,обычный
+United Kingdom,York,Gilbert Sledge,27,121.73,1,постоянный
+United Kingdom,Southampton,Marshall Thorn,23,117.77,2,постоянный
+United Kingdom,London,Cecil Vines,26,115.74,3,постоянный
+United Kingdom,Southend-on-Sea,Sandra Martin,25,109.75,4,постоянный
+United Kingdom,Stockport,Dan Paine,21,106.79,5,постоянный
+United Kingdom,Dundee,April Burns,23,74.77,6,обычный
+United Kingdom,Southport,Armando Gruber,18,72.82,7,обычный
+United Kingdom,Bradford,Anne Powell,21,72.79,8,обычный
+United Kingdom,London,Mattie Hoffman,20,58.80,9,обычный
+United States,Cape Coral,Karl Seal,42,208.58,1,ключевой
+United States,Memphis,Ana Bradley,33,167.67,2,ключевой
+United States,Akron,Zachary Hite,29,134.71,3,постоянный
+United States,Lancaster,Rosa Reynolds,28,129.72,4,постоянный
+United States,Sterling Heights,Jamie Rice,27,126.73,5,постоянный
+United States,San Bernardino,Patricia Johnson,26,123.74,6,постоянный
+United States,Fontana,Alice Stewart,30,123.70,7,постоянный
+United States,Joliet,Nathaniel Adam,25,117.75,8,постоянный
+United States,Brockton,Valerie Black,25,116.75,9,постоянный
+United States,Greensboro,Veronica Stone,30,115.70,10,постоянный
+United States,Lincoln,Ashley Richardson,25,112.75,11,постоянный
+United States,Rockford,Bill Gavin,26,106.73,12,постоянный
+United States,Dayton,Shelly Watts,23,105.77,13,постоянный
+United States,Dallas,Bryan Hardison,24,105.76,14,постоянный
+United States,Augusta-Richmond County,Diana Alexander,27,105.73,15,постоянный
+United States,Sunnyvale,Kristin Johnston,26,103.74,16,постоянный
+United States,Garden Grove,Rene Mcalister,24,101.76,17,постоянный
+United States,Aurora,Clinton Buford,24,98.76,18,обычный
+United States,Salinas,Cassandra Walters,20,96.79,19,обычный
+United States,Citrus Heights,Betty White,23,96.77,20,обычный
+United States,Warren,Brandy Graves,23,94.77,21,обычный
+United States,Compton,Renee Lane,24,92.76,22,обычный
+United States,Peoria,Carole Barnett,25,92.75,23,обычный
+United States,Bellevue,Wilma Richards,20,91.80,24,обычный
+United States,Arlington,Richard Mccrary,20,87.80,25,обычный
+United States,Garland,Ian Still,25,86.75,26,обычный
+United States,Manchester,Victor Barkley,22,85.78,27,обычный
+United States,Laredo,Jennifer Davis,25,84.75,28,обычный
+United States,Clarksville,Eva Ramos,18,83.82,29,обычный
+United States,Kansas City,Thomas Grigsby,19,81.81,30,обычный
+United States,Saint Louis,Joan Cooper,21,78.79,31,обычный
+United States,Grand Prairie,Kim Cruz,20,76.80,32,обычный
+United States,El Monte,Jacob Lance,20,74.80,33,обычный
+United States,Roanoke,Toni Holt,17,73.83,34,обычный
+United States,Aurora,Scott Shelley,18,60.82,35,обычный
+United States,Tallahassee,Caroline Bowman,13,37.87,36,обычный
+Venezuela,Maracabo,Calvin Martel,23,111.77,1,постоянный
+Venezuela,Cuman,Cindy Fisher,27,111.73,2,постоянный
+Venezuela,Caracas,Carmen Owens,25,94.75,3,обычный
+Venezuela,Valencia,Mathew Bolin,20,84.80,4,обычный
+Venezuela,Ocumare del Tuy,Yvonne Watkins,19,81.81,5,обычный
+Venezuela,Valle de la Pascua,Kristina Chambers,22,80.78,6,обычный
+Venezuela,Barcelona,Alberto Henning,21,66.79,7,обычный
+Vietnam,Cam Ranh,Neil Renner,31,149.69,1,постоянный
+Vietnam,Nam Dinh,Greg Robins,26,131.74,2,постоянный
+Vietnam,Nha Trang,Mitchell Westmoreland,31,127.69,3,постоянный
+Vietnam,Haiphong,Beth Franklin,24,95.76,4,обычный
+Vietnam,Vinh,Harvey Guajardo,20,87.80,5,обычный
+Vietnam,Hanoi,Patrick Newsom,23,83.77,6,обычный
+"Virgin Islands, U.S.",Charlotte Amalie,Nathan Runyon,31,121.69,1,постоянный
+Yemen,Hodeida,Gordon Allard,31,157.69,1,ключевой
+Yemen,Aden,Ella Oliver,30,134.70,2,постоянный
+Yemen,Taizz,Gina Williamson,27,110.73,3,постоянный
+Yemen,Sanaa,William Satterfield,19,70.81,4,обычный
+Yugoslavia,Kragujevac,Maria Miller,28,130.72,1,постоянный
+Yugoslavia,Novi Sad,Max Pitt,23,102.77,2,постоянный
+Zambia,Kitwe,Barry Lovelace,30,121.70,1,постоянный
